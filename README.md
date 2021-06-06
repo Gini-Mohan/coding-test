@@ -1,6 +1,17 @@
 # CodingTest
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.6.
+# Prerequisites
+    Angular version 8.3.6
+
+# Steps to execute
+
+1. Clone the repository.
+2. Put the input files in coding-test/src/assets/input folder
+3. Open terminal/cmd prompt and Go to the project folder(.../coding-test)
+4. Install dependencies - npm install
+5. Execute using the command ng serve
+6. Go to http://localhost:4200/ in any browser
+8. The output file will be downloaded automatically.
 
 ## Development server
 
@@ -17,10 +28,6 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 ## Further help
 
